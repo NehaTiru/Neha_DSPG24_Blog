@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Neha_DSPG24_Blog"
@@ -14,6 +15,5 @@ format:
   html:
     theme: cosmo
     css: styles.css
-
 
 

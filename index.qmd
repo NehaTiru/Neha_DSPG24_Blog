@@ -1,14 +1,12 @@
 ---
-title: "Blog"
-author: "Neha Tirunagiri"
-date: "2024-05-16"
-categories: [news, code, analysis]
-image: "image.jpg"
+title: "Neha Tirunagiri DSPG Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
 ---
-
-This is a post with executable code.
-
-```{r}
-1 + 1
-```
-
