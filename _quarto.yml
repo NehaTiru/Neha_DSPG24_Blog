@@ -6,11 +6,14 @@ website:
   title: "Neha_DSPG24_Blog"
   navbar:
     right:
-      - about.qmd
+      - href: about_Neha.qmd
+        text: About
       - icon: github
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/neha-tirunagiri/
 format:
   html:
     theme: cosmo

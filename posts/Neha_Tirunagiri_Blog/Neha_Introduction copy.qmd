@@ -1,0 +1,98 @@
+---
+title: "My Introduction and Learning Objectives_Blog"
+author: "Neha Tirunagiri"
+date: "2024-05-17"
+categories: [Introduction]
+output:
+  html_document:
+    theme: cerulean
+    toc: true
+    toc_float: true
+---
+
+```{=html}
+<style>
+body {
+    background-color: #F4C2C2; 
+}
+h1 {
+    background-color: #000000;
+    color: #FFFFFF; 
+    padding: 10px 0;
+    text-align: center;
+}
+</style>
+
+<style>
+
+img.friends-border {
+width: 45%; 
+    height: auto;
+    border: 3px solid #000; 
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 8px;
+    background-color: #fff;
+    display: inline-block; 
+    margin: 1%; 
+    vertical-align: top;
+}
+</style>
+
+
+<style>
+img.inline {
+    width: 30%;
+    height: auto;
+    border: 2px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    padding: 8px;
+    background-color: #fff;
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+}
+
+#img1 { width: 25%; }
+#img2 { width: 45%; }
+
+
+</style>
+
+<img src="images/WhatsApp Image 2024-05-16 at 18.53.21 copy.jpeg" class="inline" id="img1" alt="WhatsApp Image">
+<img src="images/beach copy.jpeg" class="inline" id="img2" alt="Beach">
+```
+Welcome to my Introduction Blog:) 
+
+### Personal Introduction
+
+-   **Origin**: I am from Andhra Pradesh, India.
+
+-   **Academic Year**: I will be junior in the coming fall semester.
+
+-   **Degree Pursuits**: I am majoring in Computer Science and minoring in Data Science. My interest in these fields was sparked by an inspiring Computer Science professor during my high school years.
+
+-   **Career Aspirations**: I aim to become a software developer at a FANG company, leveraging my degrees to build a solid foundation in technology.
+
+-   **Interest in Data Science**: Data science fascinates me because of its power to solve complex problems and its potential to drive innovation across various industries.
+
+-   **Data Science Experience**: I have basic knowledge in data science, familiar with tools like R and Pandas, though I am still in the early stages of my data science education.
+
+-   **Hobbies and Extracurricular Activities**: My free time is often spent playing badminton and cricket with friends. I am also an active participant in dance programs organized by the Indian Student Association (ISA).
+
+<img src="images/friends copy.jpeg" alt="Friends" class="friends-border"/> <img src="images/WhatsApp Image 2024-05-17 at 05.31.18 copy.jpeg" alt="Event Image" class="friends-border"/>
+
+### Personal Learning Objectives for DSPG
+
+-   **Valued Skills**: I feel am confortable with my foundational knowledge in Python, HTML, CSS. My ability to quickly learn and apply new tech skills is something I value about myself.
+
+-   **Skills to Develop**:
+
+    -   Real-world problem-solving: Learning to navigate and address complex real-world challenges.
+
+    -   Client requirement fulfillment: Understanding and meeting client expectations effectively.
+
+    -   Industry readiness: Preparing myself to seamlessly transition into a professional environment.
+
+-   **Motivation for These Skills**: These skills are essential for me to have a successful career in software development, especially in a competitive and dynamic field like tech industry.
+
+-   **Improvement Strategy**: To enhance these skills, I plan to engage deeply with in my project at DSPG, ensuring I have a clear understanding of the underlying principles and actively seeking feedback to refine my approach.
