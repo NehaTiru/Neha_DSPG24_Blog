@@ -83,7 +83,7 @@ Welcome to my Introduction Blog:)
 
 ### Personal Learning Objectives for DSPG
 
--   **Valued Skills**: I feel am confortable with my foundational knowledge in Python, HTML, CSS. My ability to quickly learn and apply new tech skills is something I value about myself.
+-   **Valued Skills**: I feel am confortable with my foundational knowledge in Python, HTML, CSS, and sql. My ability to quickly learn and apply new tech skills is something I value about myself.
 
 -   **Skills to Develop**:
 
